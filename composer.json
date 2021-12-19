@@ -1,0 +1,38 @@
+{
+    "name": "hryvinskyi/magento2-seo-canonical-pack",
+    "version": "1.0.0",
+    "description": "N/A",
+    "type": "magento2-module",
+    "require": {
+        "magento/framework": "*",
+        "hryvinskyi/magento2-seo": "1.0.0",
+        "hryvinskyi/magento2-seo-admin-ui": "1.0.0",
+        "hryvinskyi/magento2-seo-api": "1.0.0",
+        "hryvinskyi/magento2-seo-canonical": "1.0.0",
+        "hryvinskyi/magento2-seo-canonical-admin-ui": "1.0.0",
+        "hryvinskyi/magento2-seo-canonical-api": "1.0.0",
+        "hryvinskyi/magento2-seo-canonical-bundle-product-admin-ui": "1.0.0",
+        "hryvinskyi/magento2-seo-canonical-bundle-product-frontend": "1.0.0",
+        "hryvinskyi/magento2-seo-canonical-catalog-category-admin-ui": "1.0.0",
+        "hryvinskyi/magento2-seo-canonical-catalog-category-frontend": "1.0.0",
+        "hryvinskyi/magento2-seo-canonical-catalog-product-admin-ui": "1.0.0",
+        "hryvinskyi/magento2-seo-canonical-catalog-product-frontend": "1.0.0",
+        "hryvinskyi/magento2-seo-canonical-configurable-product-admin-ui": "1.0.0",
+        "hryvinskyi/magento2-seo-canonical-configurable-product-frontend": "1.0.0",
+        "hryvinskyi/magento2-seo-canonical-frontend": "1.0.0",
+        "hryvinskyi/magento2-seo-canonical-grouped-product-admin-ui": "1.0.0",
+        "hryvinskyi/magento2-seo-canonical-grouped-product-frontend": "1.0.0"
+    },
+    "require-dev": {
+        "roave/security-advisories": "dev-latest"
+    },
+    "license": [
+        "MIT"
+    ],
+    "authors": [
+        {
+            "name": "Volodymyr Hryvinskyi",
+            "email": "volodymyr@hryvinskyi.com"
+        }
+    ]
+}
