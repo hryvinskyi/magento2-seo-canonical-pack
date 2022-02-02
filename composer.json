@@ -8,7 +8,7 @@
         "hryvinskyi/magento2-seo": "1.0.0",
         "hryvinskyi/magento2-seo-admin-ui": "1.0.0",
         "hryvinskyi/magento2-seo-api": "1.0.0",
-        "hryvinskyi/magento2-seo-canonical": "1.0.0",
+        "hryvinskyi/magento2-seo-canonical": "1.0.1",
         "hryvinskyi/magento2-seo-canonical-admin-ui": "1.0.0",
         "hryvinskyi/magento2-seo-canonical-api": "1.0.0",
         "hryvinskyi/magento2-seo-canonical-bundle-product-admin-ui": "1.0.0",
@@ -19,7 +19,7 @@
         "hryvinskyi/magento2-seo-canonical-catalog-product-frontend": "1.0.0",
         "hryvinskyi/magento2-seo-canonical-configurable-product-admin-ui": "1.0.0",
         "hryvinskyi/magento2-seo-canonical-configurable-product-frontend": "1.0.0",
-        "hryvinskyi/magento2-seo-canonical-frontend": "1.0.0",
+        "hryvinskyi/magento2-seo-canonical-frontend": "1.0.1",
         "hryvinskyi/magento2-seo-canonical-grouped-product-admin-ui": "1.0.0",
         "hryvinskyi/magento2-seo-canonical-grouped-product-frontend": "1.0.0"
     },
