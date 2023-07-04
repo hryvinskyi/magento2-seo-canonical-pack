@@ -1,8 +1,8 @@
 {
     "name": "hryvinskyi/magento2-seo-canonical-pack",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "N/A",
-    "type": "magento2-module",
+    "type": "metapackage",
     "require": {
         "magento/framework": "*",
         "hryvinskyi/magento2-seo": "1.0.0",
