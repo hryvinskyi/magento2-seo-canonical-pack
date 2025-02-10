@@ -1,6 +1,6 @@
 {
     "name": "hryvinskyi/magento2-seo-canonical-pack",
-    "version": "1.0.6",
+    "version": "1.0.7",
     "description": "N/A",
     "type": "metapackage",
     "require": {
@@ -20,7 +20,7 @@
         "hryvinskyi/magento2-seo-canonical-catalog-product-frontend": "1.0.0",
         "hryvinskyi/magento2-seo-canonical-configurable-product-admin-ui": "1.0.0",
         "hryvinskyi/magento2-seo-canonical-configurable-product-frontend": "1.0.0",
-        "hryvinskyi/magento2-seo-canonical-frontend": "1.0.3",
+        "hryvinskyi/magento2-seo-canonical-frontend": "1.0.4",
         "hryvinskyi/magento2-seo-canonical-grouped-product-admin-ui": "1.0.0",
         "hryvinskyi/magento2-seo-canonical-grouped-product-frontend": "1.0.0"
     },
