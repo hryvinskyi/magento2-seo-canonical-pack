@@ -29,7 +29,7 @@
     },
     "suggest": {
         "hryvinskyi/magento2-seo-canonical-amasty-shop-by-brand": "Amasty Shop By Brand compatibility module",
-        "hryvinskyi/magento2-seo-canonical-amasty-shopby-seo": "Amasty Shop By SEO compatibility module",
+        "hryvinskyi/magento2-seo-canonical-amasty-shopby-seo": "Amasty Shop By SEO compatibility module"
     },
     "license": [
         "MIT"
